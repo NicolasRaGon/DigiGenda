@@ -4,6 +4,8 @@ Eng: Im new at programming so this app is not in other languagges (because idk h
 Esta es mi primera aplicación de escritorio en Java para gestionar tareas y horarios
 Seguramente tenga un codigo debil porque practicamente no he programado nunca ni aprendido casi nada de ello, he aprendido cosas durante la creacion de este proyecto pero no es casi nada a un verdadero programador, aun asi esta con licencia (MIT) porque me hace ilusion el marcar que este es mi trabajo incluso si alguien quiere retocarlo :)
 
+Si hay algun error (que seguramente) hazmelo saber, esto lo remarco porque para empezar no se ni siquiera si esta bien puesto el archivo de source para que la gente lo pueda modificar, perdon en ese caso y si no esperare por recomendaciones o por errores que encuentre la gente
+
 El archivo datos.txt no necesita ser rellenado, en la propia aplicacion hay botones que facilitan, pero el horario al ser algo que se cambia no tan frecuentemente he decidido hacer cambios desde el mismo archivo horarios.txt, abajo dejo una plantilla para que copieis y pegueis lo necesario para unicamente retocar vuestras asignaturas y el resto sea casi igual para todos, las asignaturas irian escritas a continuacion de la hora seguida de una coma (copiar el texto de abajo y pegarlo en horario.txt y cambiar donde pone "asignatura en cada parte" por vuestras asignaturas que se tarda menos que haciendolo a mano :))
 
 LUNES,08:30,asignatura
