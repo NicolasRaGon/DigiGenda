@@ -7,8 +7,9 @@ Seguramente tenga un codigo debil porque practicamente no he programado nunca ni
 Si hay algun error (que seguramente) hazmelo saber, esto lo remarco porque para empezar no se ni siquiera si esta bien puesto el archivo de source para que la gente lo pueda modificar, perdon en ese caso y si no esperare por recomendaciones o por errores que encuentre la gente
 
 ¡¡¡ IMPORTANTE !!!
+Si da error al ejecutar como "JAVA EXCEPTION has occurred" o algo similar, es porque tu versión de java es inferior a la del proyecto, descarga la que sea a partir de la versión 25.0.2
 
-El archivo que tienes que descargar si simplemente lo quieres usar es DigiGenda.jar y ya, tan solo recuerda tambien tener java descargado y ya esta, si no visita su pagina web y descarga java desde ahi
+El archivo que tienes que descargar si simplemente lo quieres usar es DigiGenda.jar y ya, tan solo recuerda tambien tener java descargado y ya esta, si no visita su pagina web (oracle) y descarga java desde ahi (a partir de la versión 25.0.2)
 
 El archivo datos.txt no necesita ser rellenado, en la propia aplicacion hay botones que facilitan, pero el horario al ser algo que se cambia no tan frecuentemente he decidido hacer cambios desde el mismo archivo horarios.txt, abajo dejo una plantilla para que copieis y pegueis lo necesario para unicamente retocar vuestras asignaturas y el resto sea casi igual para todos, las asignaturas irian escritas a continuacion de la hora seguida de una coma (copiar el texto de abajo y pegarlo en horario.txt y cambiar donde pone "asignatura en cada parte" por vuestras asignaturas que se tarda menos que haciendolo a mano :))
 
